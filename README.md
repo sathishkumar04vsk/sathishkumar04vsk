@@ -38,7 +38,7 @@
 
 ![Sathishkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathishkumar04vsk&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ragavkumarv&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathishkumar04vsk&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkumar04vsk&layout=compact&theme=radical&langs_count=6)
 
