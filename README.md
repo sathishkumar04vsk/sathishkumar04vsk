@@ -11,7 +11,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Sathishkumar Venkatesan, Fullstack developer with the right mix of Functional programming from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Chennai, Tamil Nadu.</b> 
-<!-- <br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning web development.</p> -->
+</p>
 
 ## ⚡ Things I code with
 
@@ -32,7 +32,7 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
 </p>
 
-<img alt="contribution" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+<img alt="contribution" src="https://github.com/sathishkumar04vsk/sathishkumar04vsk/blob/main/github/workflow/snake.yml" />
 
 ## 😄 Cool Stats
 
