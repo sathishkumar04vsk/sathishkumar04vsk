@@ -32,7 +32,7 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
 </p>
 
-<img alt="contribution" src="https://github.com/sathishkumar04vsk/sathishkumar04vsk/blob/output/github-contribution-grid-snake.svg" />
+<img alt="contribution" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
 
 ## 😄 Cool Stats
 
@@ -42,20 +42,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkumar04vsk&layout=compact&theme=radical&langs_count=6)
 
-<!-- <h3>Where to find me</h3> -->
-<!-- <p> -->
-<!-- <a href="https://github.com/ragavkumarv" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
-<!-- <a href="https://twitter.com/ragavkumarv" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
-<!-- <a href="https://www.linkedin.com/in/ragavkumarv/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-<!-- </p> -->
+
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
-<!-- <a href="https://twitter.com/ragavkumarv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ragavkumarv" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ragavkumarv" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/sathish-kumar-84aa2120b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
 <a href="https://codepen.io/sathishkumar04vsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ragavkumarv" height="30" width="40" /></a>
 
-<!-- **ragavkumarv/ragavkumarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **sathishkumar/sathishkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
