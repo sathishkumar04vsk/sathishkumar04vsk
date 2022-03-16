@@ -2,7 +2,7 @@
     <img
       width="400"
       align="right"
-      src="https://github.com/sathishkumar04vsk/sathishkumar04vsk/blob/main/devcard.svg"
+      src="https://avatars.githubusercontent.com/u/90319720?v=4"
       alt="Sathishkumar Venkatesan's Dev Card"
     />
   </a>
