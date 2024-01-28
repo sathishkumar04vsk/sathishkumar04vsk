@@ -1,67 +1,137 @@
+<!-- # Sathishkumar Venkatesan -->
+
 <a href="https://app.daily.dev/sathishkumar04">
-    <img
+<img
       width="400"
       align="right"
       src="https://avatars.githubusercontent.com/u/90319720?v=4"
       alt="Sathishkumar Venkatesan's Dev Card"
     />
-  </a>
- 
+</a>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# Hello! Delighted to have you here.
 
-<p> I'm Sathishkumar Venkatesan, Fullstack developer with the right mix of Functional programming from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Chennai, Tamil Nadu.</b> 
-</p>
+I'm Sathishkumar Venkatesan, an experienced Full Stack Developer with a strong background in building robust and scalable applications. I hold a Bachelor's degree in Engineering and have been contributing to the field since 2022. Currently, I'm working at Platformatory Labs Private Limited.
+
+- 🌍 **Location:** Bengaluru, Karnataka, India <img src="https://flagcdn.com/in.svg" width="18"/>
+- 🎓 **Education:** Bachelor's in Engineering
 
 ## ⚡ Things I code with
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-9147FF?style=flat-square&logo=Figma&logoColor=white" />
-   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-   <img alt="CSS" src="https://img.shields.io/badge/-CSS-764ABC?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
-</p>
+I specialize in a variety of technologies to bring ideas to life:
+
+<div style="display:flex; align-items: center; font-size:18px; font-weight:bold; gap:20px;">
+
+Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Jekyll](https://img.shields.io/badge/jekyll-636161?style=for-the-badge&logo=jekyll&logoColor=da0000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+<div style="display:flex; align-items: center; font-size:18px; font-weight:bold; gap:20px;">
+
+Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/Django_Rest_Framework-90152b?style=for-the-badge&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+</div>
+
+<div style="display:flex; align-items: center; font-size:18px; font-weight:bold; gap:20px;">
+
+Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+<div style="display:flex; align-items: center; font-size:18px; font-weight:bold; gap:20px;">
+
+DevOps
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+<div style="display:flex; align-items: center; font-size:18px; font-weight:bold; gap:20px;">
+
+Cloud
+
+![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+<div style="display:flex; align-items: center; font-size:18px; font-weight:bold; gap:20px;">
+
+Programming Languages
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=f7d040)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
+
+<div style="display:flex; align-items: center; font-size:18px; font-weight:bold; gap:20px;">
+
+Others
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-black?style=for-the-badge&logo=kafka&logoColor=white)
+![Confluent Kafka](https://img.shields.io/badge/Confluent_Kafka-006fa1?style=for-the-badge&logo=kafka&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=whit)
+
+</div>
+
+## 🖥️ Professional Experience
+
+### Full Stack Developer | Platformatory Labs Private Limited | 2022 - Present
+
+- Spearheaded the development of an e-commerce inventory campaign management software, delivering within a tight deadline of 60 days.
+- Successfully completed over four live projects, showcasing expertise in both backend and frontend development.
+- Collaborated with cross-functional teams to design and implement impactful solutions.
+
+## 💻 Cool Stats
 
 <img alt="contribution" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
 
-## 😄 Cool Stats
-
-![Sathishkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathishkumar04vsk&show_icons=true&theme=radical)
+![Sathishkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathishkumar04vsk&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathishkumar04vsk&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkumar04vsk&layout=compact&theme=radical&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkumar04vsk&layout=compact&theme=radical&langs_count=6)
 
+## 🏆 Achievements
 
+- Recognized for outstanding contributions in the development of critical projects.
+- Successfully led and delivered projects within challenging timelines.
 
-<h2 align="left">Connect with me ❤️</h2>
-<p align="left">
-<!-- <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ragavkumarv" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/sathish-kumar-84aa2120b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
+## ☎️ Connect with me
+
+<a href="https://www.linkedin.com/in/sathishkumar-venkatesan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
 <a href="https://codepen.io/sathishkumar04vsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ragavkumarv" height="30" width="40" /></a>
 
-<!-- **sathishkumar/sathishkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+## 📫 How to reach me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+Feel free to reach out for collaboration or discussions:
 
+- Email: [sathish04vsk@gmail.com](mailto:sathish04vsk@gmail.com)
 
+---
 
+_Experienced Developer with a passion for impactful applications. Eager to contribute to meaningful projects and make a difference in society._
