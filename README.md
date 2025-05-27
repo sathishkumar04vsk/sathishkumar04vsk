@@ -9,14 +9,14 @@
     />
 </a>
 
-# Hello! Delighted to have you here.
+<h1>Hello! Delighted to have you here.</h1> 
 
 I'm Sathishkumar Venkatesan, an experienced Full Stack Developer with a strong background in building robust and scalable applications. I hold a Bachelor's degree in Engineering and have been contributing to the field since 2022. Currently, I'm working at Platformatory Labs Private Limited.
 
 - 🌍 **Location:** Bengaluru, Karnataka, India <img src="https://flagcdn.com/in.svg" width="18"/>
 - 🎓 **Education:** Bachelor's in Engineering
 
-## ⚡ Things I code with
+<h2>⚡ Things I code with</h2>
 
 I specialize in a variety of technologies to bring ideas to life:
 
@@ -124,7 +124,7 @@ Others
 ## ☎️ Connect with me
 
 <a href="https://www.linkedin.com/in/sathishkumar-venkatesan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
-<a href="https://codepen.io/sathishkumar04vsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ragavkumarv" height="30" width="40" /></a>
+<a href="https://codepen.io/sathishkumar04vsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sathishkumar-codepen" height="30" width="40" /></a>
 
 ## 📫 How to reach me
 
