@@ -3,20 +3,21 @@
 <a href="https://app.daily.dev/sathishkumar04">
 <img
       width="400"
+      style="z-index:999"
       align="right"
       src="https://avatars.githubusercontent.com/u/90319720?v=4"
       alt="Sathishkumar Venkatesan's Dev Card"
     />
 </a>
 
-<h1>Hello! Delighted to have you here.</h1> 
+# Hello! Delighted to have you here. 
 
 I'm Sathishkumar Venkatesan, an experienced Full Stack Developer with a strong background in building robust and scalable applications. I hold a Bachelor's degree in Engineering and have been contributing to the field since 2022. Currently, I'm working at Platformatory Labs Private Limited.
 
 - 🌍 **Location:** Bengaluru, Karnataka, India <img src="https://flagcdn.com/in.svg" width="18"/>
 - 🎓 **Education:** Bachelor's in Engineering
 
-<h2>⚡ Things I code with</h2>
+## ⚡ Things I code with
 
 I specialize in a variety of technologies to bring ideas to life:
 
