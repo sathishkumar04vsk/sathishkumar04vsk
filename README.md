@@ -1,11 +1,5 @@
 <!-- # Sathishkumar Venkatesan -->
 
-<style>
-      .markdown-heading{
-            position:"static !important";
-      }
-</style>
-
 <a href="https://app.daily.dev/sathishkumar04">
 <img
       width="400"
@@ -16,7 +10,7 @@
     />
 </a>
 
-# Hello! Delighted to have you here. 
+<h1 style="position:static">Hello! Delighted to have you here.</h1> 
 
 I'm Sathishkumar Venkatesan, an experienced Full Stack Developer with a strong background in building robust and scalable applications. I hold a Bachelor's degree in Engineering and have been contributing to the field since 2022. Currently, I'm working at Platformatory Labs Private Limited.
 
